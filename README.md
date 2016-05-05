@@ -15,5 +15,3 @@ The table structure is:
 * Lon
 
 Tables are provided as is, in `.ods` and `.csv` format. If you want to help, get in touch with me.
-
-https://github.com/cengel/GreenBook.git
