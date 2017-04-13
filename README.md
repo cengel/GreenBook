@@ -4,7 +4,7 @@ This repository contains business addresses I manually extracted from the [Negro
 
 There are two kinds of tables.
 
-`GreenBook[year]` contains an individual entry for each business. Tables are separated by year.
+`GreenBook[year]` contains an individual entry for **each business**. Tables are separated by year.
 
 The table structure is:
 
@@ -19,7 +19,7 @@ The table structure is:
 * Lon (of business)
 * Comments
 
-`GreenBook_biz_by_city` contains one entry for each *type* of business per city.
+`GreenBook_biz_by_city` contains one entry for each **type of business** per city.
 
 The table structure is:
 * State
