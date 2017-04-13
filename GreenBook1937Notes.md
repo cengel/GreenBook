@@ -1,6 +1,6 @@
 # GreenBook 1937 - Notes
 
-The first book in the series is still limited to New York City (Harlem), and mainly contains businesses offering a variety of services to African Americans. They are formatted as little advertisements, instead of the simpler listings in later books. From p. 7: "'The Green Book' will pay $1 or more for manuscripts accepted by the publishers. Subjects based on the Negro motoring conditions, scenic wonders in your travels, places visited of interest and short stories on one's motoring experience."
+The first book in the series is still limited to parts of New York City and a few places north of the city as well as in New Jersey, and mainly contains businesses offering a variety of services to African Americans, as compared to later editions that include a large amount of hotels and tourist accommodations . They are formatted as little advertisements, instead of the simpler listings in later books. From p. 7: "'The Green Book' will pay $1 or more for manuscripts accepted by the publishers. Subjects based on the Negro motoring conditions, scenic wonders in your travels, places visited of interest and short stories on one's motoring experience."
 
 To see a map go [here](https://cengel.cartodb.com/viz/a365cd78-21cf-11e6-8599-0ecfd53eb7d3/public_map).
 
