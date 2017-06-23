@@ -19,7 +19,7 @@ The table structure is:
 * Lon (of business)
 * Comments
 
-`GreenBook_biz_by_city` contains one entry for each **type of business** per city.
+`GreenBook_biz_by_city` contains one entry for each **type of business** per city and a count of the occurrences of each business type.
 
 The table structure is:
 * State
