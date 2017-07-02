@@ -31,4 +31,4 @@ The table structure is:
 * Lat (of city)
 * Lon (of city)
 
-Tables are provided as is, in `.ods` and `.csv` format. If you want to help, get in touch with me.
+This is work in progress. Tables are provided as is, in `.ods` and `.csv` format. If you'd like to help, get in touch with me.
