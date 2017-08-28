@@ -1,0 +1,104 @@
+Drug Store also Druggist
+Beauty Parlor also Beauty shop
+School of Beauty Culture also Beauty School
+Automotive also Automobile
+Tourist Home also Lodgings
+Taxi Cab also Taxi
+Tailor also Tailor Shop
+Tourist Cabins also Cabins
+Letter Shop also Letter Service
+Tourist Homes also Lodging
+
+
+Obvious typos and errors in the original corrected: for example change of category from one year to the next (addresses listed as Tourist homes, then listed as Beauty Parlors, e.g. Lancaster, PA 1947 vs 1948)
+
+1938: Summer resorts listed  on pp. 20 and 21 are not included.
+
+1949, 1950: includes a few international destinations in Bermuda, Mexico, Canada
+
+1950: Summer resorts listed  on pp. 85-88 are not included.
+
+## Raleigh Puzzle:
+### inconsistent/double(?) listing for Tailors and Hotels
+### I added my decisions below that's debatable
+
+Raleigh NC
+
+1938, 1939, 1940
+Hotels:
+  Arcade
+-> Count 1 Hotel
+
+1941
+Hotels:
+  Arcade
+  Lewis—220 E. Cabarrus
+-> Count 2 Hotels
+
+1947
+Hotels:
+  Lewis—220 E. Cabarrus
+  Arcade~122E.HargettSt.
+Tailors:
+  Peerless-—103W.JonesSt.
+  Provressive—Smithfield 8: Bloodworth St.
+-> Count 2 Hotels, 2 Tailors
+
+1948, 1949
+Tailors:
+  Lewis—220 E. Cabarrus
+  Arcade~122E.HargettSt.
+Tailors: (sic!)
+  Peerless—103W.JonesSt.
+-> Count 2 Hotels, 1 Tailor
+
+1950, 1951
+Tailors: (no Hotels)
+  Lewis—220 E. Cabarrus St.
+  Arcade—122 E. Hargerr Sr.
+  Peerless—516 Fayetteville St.
+  White Swan—115 Maxwell St.
+  Snakenburg—123 So. Salisbury St.
+  John Wimberly—309 Highland Ave.
+-> Count 2 Hotels, 4 Tailors
+
+1952
+Hotels:
+  Arcade—122E.HargettStreet
+  Y.M.C.A.—6OO So. Bloodworth Street
+  LewisHotel—200CabarrusStreet
+Tailors:
+  Lewis—220 E. Cabarrus St.
+  Arcade—122 E. Hargert St.
+  Peerless—516 Fayetteville St.
+  Snakenburg—123 So. Salisbury St.
+  John Wimberly—309 Highland Ave.
+-> Count 3 Hotels, 3 Tailors
+
+1953
+Hotels:
+  Arcade—122E.HargettStreet
+  Y.M.C.A.—6OO So. Bloodworth Street
+  LewisHotel—200CabarrusStreet
+Tailors:
+  Lewis—220 E. Cabarrus St.
+  Arcade—122 E. Hargert St.
+  Peerless—516 Fayetteville St.
+  Snakenburg—123 So. Salisbury St.
+-> Count 3 Hotels, 3 Tailors
+
+1954, 1955(Tailor is spelled Hargett street)
+Hotels:
+  De Luxe Hotel 220 E. Cabarrus St
+  Arcade—122E.HargettStreet
+  Y.M.C.A.—6OO So. Bloodworth Street
+  LewisHotel—200CabarrusStreet
+Tailors:
+  G & M 106 Haggett st
+  Lewis—220 E. Cabarrus St.
+  Arcade—122 E. Hargert St.
+  Peerless—516 Fayetteville St.
+  Snakenburg—123 So. Salisbury St.
+-> Count 4 Hotels, 3 Tailors
+
+After that no Tailors listed any more.
