@@ -2,12 +2,16 @@ Drug Store also Druggist
 Beauty Parlor also Beauty shop
 School of Beauty Culture also Beauty School
 Automotive also Automobile
-Tourist Home also Lodgings
+Tourist Home also Lodgings and Guest House
 Taxi Cab also Taxi
 Tailor also Tailor Shop
 Tourist Cabins also Cabins
 Letter Shop also Letter Service
 Tourist Homes also Lodging
+Liquor Stores also Wine and Liquor Stores
+Barber Shops also Shaving Parlors
+Letter Shop also Letter Service
+Record Shop also Records
 
 
 Obvious typos and errors in the original corrected: for example change of category from one year to the next (addresses listed as Tourist homes, then listed as Beauty Parlors, e.g. Lancaster, PA 1947 vs 1948)

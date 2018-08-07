@@ -1,5 +1,5 @@
 State,City,Service,Count,EditionYear,Comments
-Alabama,Anniston,Hotel,1,1947,This edition contains a list of “Negro Schools and Colleges in the United States” (p 4-6) and “Leading Negro Publications of the United States” (p.7-9)
+Alabama,Anniston,Hotel,1,1947,"This edition contains a list of ""Negro Schools and Colleges in the United States"" (p 4-6) and ""Leading Negro Publications of the United States"" (p.7-9)"
 Alabama,Andalusia,Tourist Home,1,1947,
 Alabama,Birmingham,Hotel,4,1947,
 Alabama,Gadsden,Tourist Home,2,1947,
@@ -84,7 +84,7 @@ Arizona,Phoenix,Night Club,1,1947,
 Arizona,Phoenix,Service Station,1,1947,
 Arizona,Phoenix,Garage,2,1947,
 Arizona,Phoenix,Drug Store,2,1947,
-Arizona,Tucson,Tourist Home,1,1947,spelled “Tuscon”
+Arizona,Tucson,Tourist Home,1,1947,"spelled ""Tuscon"""
 Arizona,Tucson,Restaurant,1,1947,
 Arizona,Yuma,Hotel,1,1947,
 California,Berkley,Beauty Parlor,1,1947,
@@ -309,13 +309,13 @@ Idaho,Pocateello,Tourist Home,2,1947,
 Indiana,Anderson,Tavern,1,1947,
 Indiana,Anderson,Recreation Park,1,1947,
 Indiana,Elkhart,Tourist Home,1,1947,
-Indiana,Evansville,Tourist Home,4,1947,
+Indiana,Evansville,Tourist Home,5,1947,Town listed twice
 Indiana,Fort Wayne,Restaurant,1,1947,
 Indiana,Gary,Hotel,1,1947,
 Indiana,French Lick,Hotel,1,1947,
 Indiana,Indianapolis,Hotel,7,1947,
 Indiana,Indianapolis,Tourist Home,1,1947,
-Indiana,Indianapolis,Restaurant,8,1947,One listed separately as “Chinese Restaurant”
+Indiana,Indianapolis,Restaurant,8,1947,"One listed separately as ""Chinese Restaurant"""
 Indiana,Indianapolis,Beauty Parlor,5,1947,
 Indiana,Indianapolis,Tavern,8,1947,
 Indiana,Indianapolis,Service Station,1,1947,
@@ -332,7 +332,6 @@ Indiana,New Albany,Tourist Home,1,1947,
 Indiana,Terre Haute,Hotel,1,1947,
 Indiana,Terre Haute,Tavern,1,1947,
 Indiana,West Baden Springs,Hotel,1,1947,
-Indiana,Evansville,Tourist Home,1,1947,
 Iowa,Cedar Rapids,Tourist Home,2,1947,
 Iowa,Des Moines,Hotel,3,1947,
 Iowa,Des Moines,Restaurant,16,1947,
@@ -623,7 +622,7 @@ Missouri,East St. Louis,Tavern,4,1947,
 Missouri,East St. Louis,Tailor,1,1947,
 Missouri,East St. Louis,Drug Store,1,1947,
 Montana,Helena,Tourist Home,1,1947,
-Nebraska,Fremont,Tourist Home,2,1947,"Category is missing. Listed with a name, so probably Tourist Homes."
+Nebraska,Fremont,Tourist Home,2,1947,Category is missing. Very similar names and same address listed as Tourist Homes in 1941.
 Nebraska,Grand Island,Tourist Home,1,1947,
 Nebraska,Omaha,Hotel,4,1947,
 Nebraska,Omaha,Tourist Home,5,1947,
@@ -663,8 +662,8 @@ New Jersey,Atlantic Highlands,Restaurant,1,1947,
 New Jersey,Atlantic Highlands,Tavern,1,1947,
 New Jersey,Bayonne,Tavern,3,1947,
 New Jersey,Bell Meade,Hotel,1,1947,
-New Jersey,Bridgeton,Tavern,1,1947,Spelled “Bridgeston”
-New Jersey,Camden,Restaurant,2,1947,One listed separately as “Chinese Restaurant”
+New Jersey,Bridgeton,Tavern,1,1947,"Spelled ""Bridgeston"""
+New Jersey,Camden,Restaurant,2,1947,"One listed separately as ""Chinese Restaurant"""
 New Jersey,Camden,Tavern,1,1947,
 New Jersey,Camden,Tailor,1,1947,
 New Jersey,Cape May,Hotel,2,1947,
@@ -713,7 +712,7 @@ New Jersey,Neptune,Restaurant,1,1947,
 New Jersey,Neptune,Beauty Parlor,1,1947,
 New Jersey,Newark,Hotel,4,1947,
 New Jersey,Newark,Tourist Home,2,1947,
-New Jersey,Newark,Restaurant,6,1947,On listed under “Chinese Restaurant”
+New Jersey,Newark,Restaurant,6,1947,"On listed under ""Chinese Restaurant"""
 New Jersey,Newark,Beauty Parlor,12,1947,
 New Jersey,Newark,Barber Shop,2,1947,
 New Jersey,Newark,Tavern,24,1947,
@@ -723,7 +722,7 @@ New Jersey,Newark,Garage,1,1947,
 New Jersey,Newark,Tailor,1,1947,
 New Jersey,Ocean City,Hotel,1,1947,
 New Jersey,Orange,Hotel,3,1947,
-New Jersey,Orange,Restaurant,6,1947,On listed under “Chinese Restaurant”
+New Jersey,Orange,Restaurant,6,1947,"On listed under ""Chinese Restaurant"""
 New Jersey,Orange,Beauty Parlor,5,1947,
 New Jersey,Orange,Night Club,1,1947,
 New Jersey,Orange,Drug Store,1,1947,
@@ -786,7 +785,7 @@ New York,Albany,Service Station,1,1947,
 New York,Albany,Night Club,2,1947,
 New York,Buffalo,Hotel,5,1947,
 New York,Buffalo,Tourist Home,4,1947,
-New York,Buffalo,Restaurant,15,1947,One listed under “Chinese Restaurant”
+New York,Buffalo,Restaurant,15,1947,"One listed under ""Chinese Restaurant"""
 New York,Buffalo,Beauty Parlor,14,1947,
 New York,Buffalo,Barber Shop,2,1947,
 New York,Buffalo,Tavern,14,1947,
@@ -824,17 +823,17 @@ New York,Syracuse,Garage,1,1947,
 New York,Syracuse,Drug Store,1,1947,
 New York,Utica,Tourist Home,3,1947,
 New York,Watertown,Tourist Home,3,1947,
-New York,New York,Hotel,29,1947,"7 are ads, “Harlem”"
-New York,New York,Restaurant,42,1947,"2 are ads, 1 listed under “Chinese Restaurant”, “Harlem”"
-New York,New York,Beauty Parlor,13,1947,“Harlem”
-New York,New York,Barber Shop,18,1947,"1 is ad, “Harlem”"
-New York,New York,Tavern,102,1947,"7 are ads, “Harlem”"
-New York,New York,Night Club,10,1947,“Harlem”
-New York,New York,Liquor Store,7,1947,"1 is ad, “Harlem”"
-,New York,Garage,4,1947,“Harlem”
-,New York,Automotive,1,1947,“Harlem”
-New York,New York,Tailor,6,1947,"3 are ads, one of which on top of p.60, Tailor includes Cleaner, “Harlem”"
-New York,New York,Dance Hall,2,1947,“Harlem”
+New York,New York,Hotel,29,1947,"7 are ads, ""Harlem"""
+New York,New York,Restaurant,42,1947,"2 are ads, 1 listed under ""Chinese Restaurant"", ""Harlem"""
+New York,New York,Beauty Parlor,13,1947,"""Harlem"""
+New York,New York,Barber Shop,18,1947,"1 is ad, ""Harlem"""
+New York,New York,Tavern,102,1947,"7 are ads, ""Harlem"""
+New York,New York,Night Club,10,1947,"""Harlem"""
+New York,New York,Liquor Store,7,1947,"1 is ad, ""Harlem"""
+,New York,Garage,4,1947,"""Harlem"""
+,New York,Automotive,1,1947,"""Harlem"""
+New York,New York,Tailor,6,1947,"3 are ads, one of which on top of p.60, Tailor includes Cleaner, ""Harlem"""
+New York,New York,Dance Hall,2,1947,"""Harlem"""
 New York,New York,Hotel,3,1947,Brooklyn
 New York,New York,Restaurant,5,1947,Brooklyn
 New York,New York,Beauty Parlor,4,1947,Brooklyn
@@ -980,7 +979,7 @@ Ohio,Canton,Barber Shop,1,1947,
 Ohio,Canton,Drug Store,1,1947,
 Ohio,Cincinnati,Hotel,7,1947,
 Ohio,Cincinnati,Tourist Home,1,1947,
-Ohio,Cincinnati,Restaurant,13,1947,1 listed under “Chinese Restaurant”
+Ohio,Cincinnati,Restaurant,13,1947,"1 listed under ""Chinese Restaurant"""
 Ohio,Cincinnati,Beauty Parlor,4,1947,
 Ohio,Cincinnati,Barber Shop,3,1947,
 Ohio,Cincinnati,Tavern,5,1947,

@@ -111,7 +111,7 @@ California,Los Angeles,Automotive,2,1950,
 California,Los Angeles,Drug Store,5,1950,
 California,Los Angeles,Tailor,4,1950,
 California,Los Angeles,Real Estate,1,1950,
-California,Elsinore,Hotel,1,1950,
+California,Lake Elsimore,Hotel,1,1950,Town listed as Elsinore
 California,Hollywood,Tourist Home,1,1950,
 California,Needles,Motel,1,1950,
 California,Oakland,Hotel,2,1950,
@@ -146,7 +146,7 @@ California,Vallejo,Tavern,1,1950,
 California,Victorville,Tourist Home,1,1950,
 Colorado,Colorado Springs,Tourist Home,4,1950,
 Colorado,Denver,Hotel,1,1950,
-Colorado,Denver,Tourist Home,5,1950,Tourist Homes category listed twice
+Colorado,Denver,Tourist Home,4,1950,"Tourist Homes category listed twice, but with repeated address"
 Colorado,Denver,Restaurant,13,1950,Restaurants category listed twice
 Colorado,Denver,Beauty Parlor,3,1950,
 Colorado,Denver,Barber Shop,3,1950,
@@ -357,7 +357,7 @@ Illinois,Rockford,Hotel,1,1950,
 Illinois,Rockford,Tourist Home,3,1950,
 Indiana,Anderson,Tavern,1,1950,
 Indiana,Elkhart,Tourist Home,1,1950,
-Indiana,Evansville,Tourist Home,4,1950,
+Indiana,Evansville,Tourist Home,5,1950,Town listed twice
 Indiana,Fort Wayne,Restaurant,3,1950,
 Indiana,Fort Wayne,Tourist Home,1,1950,
 Indiana,Fort Wayne,Barber Shop,1,1950,
@@ -391,7 +391,6 @@ Indiana,Naptown,Hotel,1,1950,
 Indiana,South Bend,Restaurant,1,1950,
 Indiana,Terre Haute,Hotel,1,1950,
 Indiana,West Baden Springs,Hotel,1,1950,
-Indiana,Evansville,Tourist Home,1,1950,
 Iowa,Cedar Rapids,Tourist Home,2,1950,
 Iowa,Des Moines,Hotel,2,1950,
 Iowa,Des Moines,Restaurant,13,1950,
@@ -501,12 +500,11 @@ Louisiana,New Orleans,Restaurant,14,1950,
 Louisiana,New Orleans,Barber Shop,1,1950,
 Louisiana,New Orleans,Beauty Parlor,3,1950,
 Louisiana,New Orleans,School of Beauty Culture,2,1950,
-Louisiana,New Orleans,Tavern,9,1950,
+Louisiana,New Orleans,Tavern,11,1950,Tavern category listed twice
 Louisiana,New Orleans,Night Club,8,1950,
 Louisiana,New Orleans,Service Station,2,1950,
 Louisiana,New Orleans,Taxi Cab,4,1950,
 Louisiana,New Orleans,Drug Store,1,1950,
-Louisiana,New Orleans,Tavern,2,1950,
 Louisiana,New Iberia,Tourist Home,2,1950,
 Louisiana,Opelcusas,Tourist Home,1,1950,
 Louisiana,Scotlandville,Service Station,1,1950,
@@ -611,7 +609,7 @@ Michigan,Hartford,Tourist Home,1,1950,
 Michigan,Idlewild,Hotel,7,1950,
 Michigan,Idlewild,Tourist Home,9,1950,
 Michigan,Idlewild,Restaurant,4,1950,1 is ad
-Michigan,Idlewild,Tavern,3,1950,"One restaurant also mentioned as Tavern, but spelled differently (Rosanna’s Rosana)"
+Michigan,Idlewild,Tavern,3,1950,"One restaurant also mentioned as Tavern, but spelled differently (Rosanna's Rosana)"
 Michigan,Jackson,Tourist Home,1,1950,
 Michigan,Lansing,Tourist Home,3,1950,
 Michigan,Lawrence,Tourist Home,1,1950,
@@ -738,7 +736,7 @@ Nebraska,Ainsworth,Tourist Home,1,1950,
 Nebraska,Ainsworth,Restaurant,2,1950,
 Nebraska,Ainsworth,Service Station,5,1950,
 Nebraska,Ainsworth,Garage,3,1950,
-Nebraska,Fremont,Tourist Home,2,1950,
+Nebraska,Fremont,Tourist Home,2,1950,Category is missing. Very similar names and same address listed as Tourist Homes in 1941.
 Nebraska,Omaha,Hotel,4,1950,
 Nebraska,Omaha,Tourist Home,3,1950,
 Nebraska,Omaha,Restaurant,2,1950,
@@ -908,9 +906,8 @@ New York,Buffalo,Tourist Home,4,1950,
 New York,Buffalo,Restaurant,14,1950,1 is Chinese
 New York,Buffalo,Beauty Parlor,13,1950,
 New York,Buffalo,Barber Shop,2,1950,
-New York,Buffalo,Tavern,15,1950,
+New York,Buffalo,Tavern,17,1950,Tavern category listed twice
 New York,Buffalo,Night Club,3,1950,
-New York,Buffalo,Tavern,2,1950,
 New York,Buffalo,Liquor Store,5,1950,
 New York,Buffalo,Service Station,3,1950,
 New York,Buffalo,Tailor,10,1950,
@@ -1105,7 +1102,7 @@ North Carolina,Raleigh,Barber Shop,1,1950,
 North Carolina,Raleigh,Tailor,4,1950,Listed as Tailors addresses possibly duplicated Hotels
 North Carolina,Raleigh,Garage,1,1950,
 North Carolina,Raleigh,Taxi Cab,1,1950,
-North Carolina,Mancheste,Tavern,1,1950,
+North Carolina,Manchester,Tavern,1,1950,
 North Carolina,Pinehurst,Tourist Home,1,1950,Same name listed under Service Station as well.
 North Carolina,Pinehurst,Service Station,1,1950,Same name listed under Tourist Home as well.
 North Carolina,Sanford,Beauty Parlor,1,1950,
@@ -1658,7 +1655,7 @@ West Virginia,Charleston,Restaurant,2,1950,
 West Virginia,Charleston,Service Station,2,1950,
 West Virginia,Charleston,Taxi Cab,1,1950,Ad
 West Virginia,Clarksburg,Restaurant,1,1950,
-West Virginia,Clarksburg,Tourist Home,1,1950,“Lodging”
+West Virginia,Clarksburg,Tourist Home,1,1950,"""Lodging"""
 West Virginia,Clarksburg,Night Club,3,1950,
 West Virginia,Clarksburg,Tavern,1,1950,
 West Virginia,Fairmont,Restaurant,1,1950,
@@ -1666,9 +1663,9 @@ West Virginia,Fairmont,School of Beauty Culture,1,1950,
 West Virginia,Fairmont,Hotel,1,1950,
 West Virginia,Grafton,Tavern,1,1950,
 West Virginia,Grafton,Restaurant,1,1950,
-West Virginia,Grafton,Tourist Home,1,1950,“Lodging”
+West Virginia,Grafton,Tourist Home,1,1950,"""Lodging"""
 West Virginia,Huntington,Hotel,1,1950,
-West Virginia,Huntington,Tourist Home,1,1950,“Lodging”
+West Virginia,Huntington,Tourist Home,1,1950,"""Lodging"""
 West Virginia,Huntington,Restaurant,2,1950,
 West Virginia,Huntington,Beauty Parlor,1,1950,
 West Virginia,Huntington,Tavern,2,1950,
@@ -1692,13 +1689,13 @@ West Virginia,Morgantown,Tourist Home,3,1950,
 West Virginia,Moundsville,Tourist Home,1,1950,
 West Virginia,Parkersburg,Night Club,1,1950,
 West Virginia,East Rainelle,Restaurant,1,1950,
-West Virginia,Weirton,Tourist Home,1,1950,“Lodging”
+West Virginia,Weirton,Tourist Home,1,1950,"""Lodging"""
 West Virginia,Welch,Hotel,1,1950,
 West Virginia,Williamson,Tourist Cabins,1,1950,
 West Virginia,Williamson,Drug Store,1,1950,
 West Virginia,Williamson,Night Club,1,1950,
 West Virginia,Williamson,Tailor,1,1950,
-West Virginia,Wheeling,Tourist Home,2,1950,“Lodging”
+West Virginia,Wheeling,Tourist Home,2,1950,"""Lodging"""
 West Virginia,Wheeling,Restaurant,1,1950,
 West Virginia,Wheeling,Beauty Parlor,2,1950,
 West Virginia,Wheeling,Night Club,2,1950,
